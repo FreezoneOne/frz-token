@@ -507,7 +507,7 @@ contract FreezoneToken is VestedToken {
     bool revokable = false;
     bool burnsOnRevoke = false;
     // FCEZ tokens owner address
-    address multisig = 0x5c15741c7abb1b0e8fb0bd41b5ed8c17219926a1;
+    address multisig = 0x5c15741C7ABb1b0E8FB0BD41b5ed8c17219926A1;
 
    
     
